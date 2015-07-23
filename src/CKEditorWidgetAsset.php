@@ -19,7 +19,7 @@ use yii\web\AssetBundle;
 class CKEditorWidgetAsset extends AssetBundle
 {
     public $depends = [
-        'dosamigos\ckeditor\CKEditorAsset'
+        'maverick\ckeditor\CKEditorAsset'
     ];
     public $js = [
         'dosamigos-ckeditor.widget.js'
