@@ -19,6 +19,7 @@ return [
         ['name' => 'basicstyles', 'groups' => ['basicstyles', 'cleanup']],
         ['name' => 'colors'],
         ['name' => 'links'],
+        ['name' => 'eqneditor'],
         ['name' => 'others'],
     ],
     'removeButtons' => 'Smiley,Iframe'
