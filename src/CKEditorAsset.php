@@ -20,7 +20,7 @@ class CKEditorAsset extends AssetBundle
 {
     public $js = [
         'ckeditor.js',
-        'adapters/jquery.js'
+        'adapters/ckeditor.jquery.js'
     ];
     public $depends = [
         'yii\web\YiiAsset',
